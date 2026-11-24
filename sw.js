@@ -1,5 +1,5 @@
 /* Saves a copy of the LGA review meeting form on the phone so it opens without signal. */
-const CACHE = 'lga-review-meeting-v1';
+const CACHE = 'lga-review-meeting-v2';
 const SHELL = ['./', './index.html', './api.js'];
 
 self.addEventListener('install', event => {
